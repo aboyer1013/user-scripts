@@ -12,18 +12,18 @@
 // ==/UserScript==
 
 
-(function() {
-	'use strict';
-
-	const $$ = window.jQuery.noConflict();
-
-	$$(() => {
-		const searchForElement = (selector) => {
-			const node = document.querySelector(selector);
-		};
-		const searchResults =
-
-		console.clear();
-		console.log('searchResults2', searchResults);
-	});
-})();
+// (function() {
+// 	'use strict';
+//
+// 	const $$ = window.jQuery.noConflict();
+//
+// 	$$(() => {
+// 		const searchForElement = (selector) => {
+// 			const node = document.querySelector(selector);
+// 		};
+// 		const searchResults =
+//
+// 		console.clear();
+// 		console.log('searchResults2', searchResults);
+// 	});
+// })();
